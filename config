@@ -169,7 +169,7 @@ gaps inner 8
 for_window [class="^.*"] border pixel 3
 
 # class                 border  bground text    indicator child_border
-client.focused          #ff79c6 #51A2DA #FFFFFF #83CAFA   #ff79c6
+client.focused          #ff79c6 #51A2DA #FFFFFF #ff79c6   #ff79c6
 client.focused_inactive #4C4C4C #4C4C4C #FFFFFF #4C4C4C   #222222
 client.unfocused        #4C4C4C #222222 #888888 #292D2E   #222222
 client.urgent           #EC69A0 #DB3279 #FFFFFF #DB3279   #DB3279
